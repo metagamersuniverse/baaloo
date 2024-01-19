@@ -5,3 +5,4 @@
 ## Welcome
 
 * [Welcome](welcome/welcome.md)
+* [Page 1](welcome/page-1.md)
